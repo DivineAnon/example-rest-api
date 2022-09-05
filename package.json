@@ -1,0 +1,17 @@
+{
+  "name": "example-api-rest",
+  "version": "1.0.0",
+  "description": "Contoh API",
+  "main": "app.js",
+  "scripts": {
+    "test": "node start app.js"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "andrianus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
